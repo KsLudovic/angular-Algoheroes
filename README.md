@@ -28,10 +28,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 
-##ANGULAR part of the Algoheroes project
-
+## ANGULAR part of the Algoheroes project
+#Implementation of cool editing comment prog
 #Implementation of routing
 #Side done
+
 #WORK IN PROGRESS
 Optimizing design
 Subreddit-post redirection
